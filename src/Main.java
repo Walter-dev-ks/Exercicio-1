@@ -1,3 +1,21 @@
+/*
+    Fazer um programa para ler os valores da largura e altura
+    de um retângulo. Em seguida, mostrar na tela o valor de sua área,
+    perímetro e diagonal. Usar classes com as seguintes descrições:
+
+    Retangle
+
+    -Width: double
+    -Height: double
+
+    +Area(): double
+    +Perimetro(): double
+    +Diagonal(): double
+
+
+ */
+
+
 import entities.Triangule;
 
 import java.util.Locale;
